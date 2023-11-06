@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(184, 238, 184);
+    
+}
+
+/* .left-nav{
+    background-color: antiquewhite;
+    float: left;
+    width: 220px;
+    opacity: 0.7;
+} */
+
+.flex-container1 {
+    display: flex;
+    justify-content: space-between;
+    height: fit-content;
+    width: fit-content;
+    margin: 5px auto;
+    padding: 10px; 
+    border: 1px solid transparent;
+    background-color: rgb(121, 202, 121);
+    flex-direction: row;
+    opacity: 0.7;
+    gap: 2rem;
+    width: 98vw;
+    /* flex-wrap: wrap; */
+}
+ 
+.The_Stroop_Effect {
+    background-color: rgb(176, 220, 237);
+    width: 50%;
+    height: 50%;
+    margin: 5px auto;
+    padding: 30px 30px 30px 30px;;
+    border: 1px solid transparent;
+    opacity: 0.7;
+}
+.first-art {
+    background-color: rgb(238, 199, 199);
+    width: 50%;
+    height: 50%;
+    margin: 5px auto;
+    padding: 30px 30px 30px 30px;
+    border: 1px solid transparent;
+    opacity: 0.7;
+
+}
+
+.second-art {
+    background-color: rgb(236, 236, 178);
+    width: 50%;
+    height: 50%;
+    margin: 5px auto;
+    padding: 30px 30px 30px 30px;
+    border: 1px solid transparent;
+    opacity: 0.7;
+}
+
+.third-art {
+    background-color: rgb(176, 220, 237);
+    width: 50%;
+    height: 50%;
+    margin: 5px auto;
+    padding: 30px 30px 30px 30px;
+    border: 1px solid transparent;
+    opacity: 0.95; 
+}
+.flex-container2 {
+    display: flex;
+    background-color: gainsboro;
+    width: 90%;
+    height: 50%;
+    margin: 0 auto;
+    padding: 10px 40px 0px 10px;
+    border: 1px solid transparent;
+    flex-direction: row;
+    /* flex-wrap: wrap;*/ 
+}
+
+
+.fourth-art {
+    background-color: rgb(238, 199, 199);
+    width: 50%;
+    height: 50%;
+    margin: 5px auto;
+    padding: 30px 30px 30px 30px;
+    border: 1px solid transparent;
+    opacity: 0.7;
+}
+
+.fifth-art {
+    background-color: rgb(236, 236, 178);
+    width: 50%;
+    height: 50%;
+    margin: 5px auto;
+    padding: 30px 30px 30px 30px;
+    border: 1px solid transparent;
+    opacity: 0.7;
+}
+
+.sixth-art {
+    background-color: rgb(176, 220, 237);
+    width: 50%;
+    height: 50%;
+    margin: 5px auto;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid transparent;
+    opacity: 0.7;
+}
